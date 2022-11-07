@@ -475,8 +475,8 @@ body.light-theme {
 }
 
 .about__img {
-  width: 350px;
-  border-radius: 1.5rem;
+  width: 250px;
+  border-radius: 1rem;
   justify-self: center;
 }
 
